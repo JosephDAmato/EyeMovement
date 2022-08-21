@@ -1,9 +1,8 @@
-## EyeMovement
+# EyeMovement
 ![The eyes are watching you](/EyeMovementPreview.png)
 
 
-Eye Movement is an example of using JavaScript and CSS to create a fun dynamic set of eyes that follow your curso
-
+Eye Movement is an example of using JavaScript and CSS to create a fun dynamic set of eyes that follow your cursor
 
 ## Authors and Contributing
 This was a project done for the MITxPro Emeritus Full Stack Development Cert.
@@ -15,9 +14,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## MIT License
-
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Joseph D'Amato]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
